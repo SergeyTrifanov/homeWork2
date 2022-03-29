@@ -65,5 +65,9 @@ public class Main {
 
         float g = a + 1f;
         System.out.println(g);
+
+        System.out.println("пишу свое ДЗ!");
+        System.out.println("делаю коммит и пуш");
+        System.out.println("перехожу в гет хаб");
     }
 }
